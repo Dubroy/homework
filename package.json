@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Dubroy/homework/issues"
   },
-  "homepage": "https://github.com/Dubroy/homework#readme"
+  "homepage": "https://github.com/Dubroy/homework#readme",
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
 }
