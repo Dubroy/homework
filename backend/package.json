@@ -1,0 +1,23 @@
+{
+  "name": "homework",
+  "version": "1.0.0",
+  "description": "binance api",
+  "main": "index.js",
+  "dependencies": {
+    "ws": "^8.18.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dubroy/homework.git"
+  },
+  "author": "dubroy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dubroy/homework/issues"
+  },
+  "homepage": "https://github.com/Dubroy/homework#readme"
+}
